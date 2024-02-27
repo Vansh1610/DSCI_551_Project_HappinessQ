@@ -4,6 +4,10 @@ App Link - https://happinessq.onrender.com/
 
 This repository contains an Emulated File Distribution System that is designed to store file data along with associated metadata, and perform analysis on world happiness, unemployment, and GDP data using two different database systems: SQL and Firebase. The system also includes command-line tools for managing the data, as well as a partition-based MapReduce implementation for searching and analyzing the stored data. The analysis results are visualized using a web application built with Flask.
 
+
+# Note
+The file app.py is stored in a private repository and cannot be shared on a public domain due to project guidelines and requirements.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
